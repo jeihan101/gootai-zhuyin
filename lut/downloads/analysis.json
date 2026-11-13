@@ -1,6 +1,6 @@
 [
   {
-    "file": "gootai-canon-clog2-bt2020-aml-v03.cube",
+    "file": "Gootai Canon C-Log2 BT2020 Alexa Lut AML.cube",
     "input_gamut": "BT.2020",
     "input_curve": "Canon Log 2",
     "output_gamut": "Rec.709",
@@ -8,7 +8,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-canon-clog2-bt2020-standard-v03.cube",
+    "file": "Gootai Canon C-Log2 BT2020 Alexa Lut.cube",
     "input_gamut": "BT.2020",
     "input_curve": "Canon Log 2",
     "output_gamut": "Rec.709",
@@ -16,7 +16,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-canon-clog2-bt709-aml-v03.cube",
+    "file": "Gootai Canon C-Log2 BT709 Alexa Lut AML.cube",
     "input_gamut": "BT.709",
     "input_curve": "Canon Log 2",
     "output_gamut": "Rec.709",
@@ -24,7 +24,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-canon-clog2-bt709-standard-v03.cube",
+    "file": "Gootai Canon C-Log2 BT709 Alexa Lut.cube",
     "input_gamut": "BT.709",
     "input_curve": "Canon Log 2",
     "output_gamut": "Rec.709",
@@ -32,7 +32,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-canon-clog2-cinemagamut-aml-v03.cube",
+    "file": "Gootai Canon C-Log2 CinemaGamut Alexa Lut AML.cube",
     "input_gamut": "Cinema Gamut",
     "input_curve": "Canon Log 2",
     "output_gamut": "Rec.709",
@@ -40,7 +40,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-canon-clog2-cinemagamut-standard-v03.cube",
+    "file": "Gootai Canon C-Log2 CinemaGamut Alexa Lut.cube",
     "input_gamut": "Cinema Gamut",
     "input_curve": "Canon Log 2",
     "output_gamut": "Rec.709",
@@ -48,7 +48,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-dji-dlog-aml-v03.cube",
+    "file": "Gootai DJI D-Log Lut ARRI ALEXA style Lut AML.cube",
     "input_gamut": "Pocket 4P mode-specific official input; chromaticities not fully confirmed",
     "input_curve": "D-Log",
     "output_gamut": "Rec.709",
@@ -56,7 +56,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-dji-dlog-standard-v03.cube",
+    "file": "Gootai DJI D-Log Lut ARRI ALEXA style Lut.cube",
     "input_gamut": "Pocket 4P mode-specific official input; chromaticities not fully confirmed",
     "input_curve": "D-Log",
     "output_gamut": "Rec.709",
@@ -64,7 +64,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-dji-dlog2-aml-v03.cube",
+    "file": "Gootai DJI D-Log2 Lut ARRI ALEXA style Lut AML.cube",
     "input_gamut": "Pocket 4P mode-specific official input; chromaticities not fully confirmed",
     "input_curve": "D-Log 2",
     "output_gamut": "Rec.709",
@@ -72,7 +72,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-dji-dlog2-standard-v03.cube",
+    "file": "Gootai DJI D-Log2 Lut ARRI ALEXA style Lut.cube",
     "input_gamut": "Pocket 4P mode-specific official input; chromaticities not fully confirmed",
     "input_curve": "D-Log 2",
     "output_gamut": "Rec.709",
@@ -80,7 +80,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-sony-slog3-sgamut3-aml-v03.cube",
+    "file": "Gootai Sony S-Log3 SGamut3 Alexa Lut AML.cube",
     "input_gamut": "S-Gamut3",
     "input_curve": "S-Log3",
     "output_gamut": "Rec.709",
@@ -88,7 +88,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-sony-slog3-sgamut3-standard-v03.cube",
+    "file": "Gootai Sony S-Log3 SGamut3 Alexa Lut.cube",
     "input_gamut": "S-Gamut3",
     "input_curve": "S-Log3",
     "output_gamut": "Rec.709",
@@ -96,7 +96,7 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-sony-slog3-sgamut3cine-aml-v03.cube",
+    "file": "Gootai Sony S-Log3 SGamut3Cine Alexa Lut AML.cube",
     "input_gamut": "S-Gamut3.Cine",
     "input_curve": "S-Log3",
     "output_gamut": "Rec.709",
@@ -104,11 +104,43 @@
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
   },
   {
-    "file": "gootai-sony-slog3-sgamut3cine-standard-v03.cube",
+    "file": "Gootai Sony S-Log3 SGamut3Cine Alexa Lut.cube",
     "input_gamut": "S-Gamut3.Cine",
     "input_curve": "S-Log3",
     "output_gamut": "Rec.709",
     "output_curve": "LC-709TypeA reference + Gootai creative curve; standard contrast 1.02; saturation stages 1.05/1.10; display brightness stages 1.10/1.05",
     "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not a pure gamma encoding"
+  },
+  {
+    "file": "Gootai Panasonic V-Log VGamut Alexa Lut.cube",
+    "input_gamut": "V-Gamut",
+    "input_curve": "V-Log",
+    "output_gamut": "Rec.709",
+    "output_curve": "LC-709TypeA reference + Gootai creative curve; standard contrast 1.02; saturation stages1.05/1.10; display brightness stages1.10/1.05",
+    "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not pure gamma encoding"
+  },
+  {
+    "file": "Gootai Panasonic V-Log VGamut Alexa Lut AML.cube",
+    "input_gamut": "V-Gamut",
+    "input_curve": "V-Log",
+    "output_gamut": "Rec.709",
+    "output_curve": "LC-709TypeA reference + Gootai creative curve; AML contrast 1.12; saturation stages1.05/1.10; display brightness stages1.10/1.05",
+    "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not pure gamma encoding"
+  },
+  {
+    "file": "Gootai Nikon ZR Log3G10 REDWideGamutRGB Alexa Lut.cube",
+    "input_gamut": "REDWideGamutRGB",
+    "input_curve": "Log3G10",
+    "output_gamut": "Rec.709",
+    "output_curve": "LC-709TypeA reference + Gootai creative curve; standard contrast 1.02; saturation stages1.05/1.10; display brightness stages1.10/1.05",
+    "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not pure gamma encoding"
+  },
+  {
+    "file": "Gootai Nikon ZR Log3G10 REDWideGamutRGB Alexa Lut AML.cube",
+    "input_gamut": "REDWideGamutRGB",
+    "input_curve": "Log3G10",
+    "output_gamut": "Rec.709",
+    "output_curve": "LC-709TypeA reference + Gootai creative curve; AML contrast 1.12; saturation stages1.05/1.10; display brightness stages1.10/1.05",
+    "viewing_target": "SDR Rec.709 Gamma 2.4; creative display values, not pure gamma encoding"
   }
 ]
